@@ -88,7 +88,7 @@
         <div class="container p-5">
             <div class="row">
                 <div class="col-lg-6">
-                    <h4>Peralatan Lengkap dan Canggih</h4>
+                    <h4>Peralatan Lengkap dan Canggih polll</h4>
                     <p>Laundry kami menggunakan peralatan yang cukup lengkap dan canggih. Peralatan kami memungkinkan
                         baju tidak perlu dijemur dan mengurangi debu pada baju</p>
                 </div>
